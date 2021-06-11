@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- Default Author Name when there is no author specified -->
+    <string name="default_author_guardian">Guardian</string>
+    <!-- Separator symbol to check if there an author or not -->
+    <string name="separator"> | </string>
+    <!-- & symbol to group authors name with spaces before/after -->
+    <string name="author_and_symbol">&#160;&amp;&#160;</string>
+    <!-- Text for the empty view when there is no article available -->
+    <string name="no_article_available">Currently no article available. Please come back later!</string>
+    <!-- Text for the empty view when there is no internet connection -->
+    <string name="no_internet">Oops! There seems to be no Internet...</string>
+    <!-- Tab Name of Politics -->
+    <string name="tab_politics">Politics</string>
+    <!-- Tab Name of Technology -->
+    <string name="tab_technology">Technology</string>
+    <!-- Tab Name of Sports -->
+    <string name="tab_sports">Sports</string>
+    <!-- Tab Name of Life Style -->
+    <string name="tab_lifestyle">Life Style</string>
+</resources>

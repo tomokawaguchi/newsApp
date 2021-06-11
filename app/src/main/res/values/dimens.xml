@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Font Sizes-->
+    <dimen name="extra_small_font">12sp</dimen>
+    <dimen name="small_font">14sp</dimen>
+    <dimen name="medium_font">16sp</dimen>
+    <dimen name="large_font">20sp</dimen>
+    <!--Spacing Sizes-->
+    <dimen name="medium_space">8dp</dimen>
+    <dimen name="extra_large_space">20dp</dimen>
+    <!--Section/Image Sizes-->
+    <dimen name="length60">60dp</dimen>
+    <dimen name="length90">90dp</dimen>
+    <dimen name="length120">120dp</dimen>
+</resources>
